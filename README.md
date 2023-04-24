@@ -1,6 +1,7 @@
 <img src="https://th.bing.com/th/id/OIG.BTL3x9z9LMfAFIGrRutr?pid=ImgGn" width="600" height="600" align="left">
 
 <h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
+<br>
 
 <p align="left"> 
   My name is Cristiano, I am a former student of <a href="https://www.academiadecodigo.org/">Academia de Código</a>. I like programming and I want to learn more about the different technologies and languages that exist. On my GitHub, you can find some of my personal and professional projects that I developed along my journey as a programmer. I hope you like my work and leave me your feedback. Thank you for visiting my profile!<br> I hope you enjoy my profile! 🚀

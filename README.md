@@ -1,5 +1,5 @@
-
-![imagem de programação](https://th.bing.com/th/id/OIG.BTL3x9z9LMfAFIGrRutr?pid=ImgGn)
+<img src="https://th.bing.com/th/id/OIG.BTL3x9z9LMfAFIGrRutr?pid=ImgGn" width="500" height="300" align="left">
+![imagem de programação]()
 
 <h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
 

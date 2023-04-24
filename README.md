@@ -16,7 +16,7 @@
   <img align="center" alt="Reff-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Reff-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Reff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img aling="center" alt="Reff-mysql" height="30" width="0" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+  <img aling="center" alt="Reff-mysql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 </div>
 </p>
 

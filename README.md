@@ -21,8 +21,6 @@
 </div>
 </p>
 
-
-<div><br><br></div>
   
 ## Onde você pode me encontrar 🌎
 

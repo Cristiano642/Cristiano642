@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIG.BTL3x9z9LMfAFIGrRutr?pid=ImgGn" width="600" height="600" align="left">
+<img src="https://th.bing.com/th/id/OIG.BTL3x9z9LMfAFIGrRutr?pid=ImgGn" width="300" height="300" align="left">
 
 <h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
 <br>

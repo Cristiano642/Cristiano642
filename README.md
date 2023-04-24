@@ -1,8 +1,8 @@
 
-<h1>Cristiano Esteves<br>J U N I O R F U L L S T A C K D E V E L O P E R</h1>
+<h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
 
 <p align="left"> 
-  My name is Fernando Peres Carvalho, I'm currently studying IT Management on FATEC from Jundiaí and I'm a Fullstack Developer from MAR Solutions.<br> I hope you enjoy my profile! 🚀
+  My name is Cristiano, I am a former student of <a href="https://www.academiadecodigo.org/">Academia de Código</a>. I like programming and I want to learn more about the different technologies and languages that exist. On my GitHub, you can find some of my personal and professional projects that I developed along my journey as a programmer. I hope you like my work and leave me your feedback. Thank you for visiting my profile!<br> I hope you enjoy my profile! 🚀
 </p>
 <br>
 
@@ -20,16 +20,6 @@
 </p>
 
 <div><br><br></div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/Reff20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reff20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reff20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
   
   <div> 
   <a href="https://instagram.com/_fperes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

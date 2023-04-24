@@ -16,7 +16,7 @@
   <img align="center" alt="Reff-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Reff-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Reff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img aling="center" alt="Reff-mysql" height="30" width="40" src="https://user-images.githubusercontent.com/98549767/234087908-10c5172b-a3d1-4420-96df-312d0c2ff5f1.png">
+  <img aling="center" alt="Reff-mysql" height="30" width="40" src="https://www.ajaykumarthakur.in/assets/img/icon/mysql-logo.png">
 </div>
 </p>
 

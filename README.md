@@ -21,8 +21,7 @@
   <img align="center" alt="Reff-mysql" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png">
 </div>
 </p>
-
-  
+<br>
 <h3> Where Can You Find Me 🌎</h3>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fulano/)](https://www.linkedin.com/in/cristianoe-dev/)

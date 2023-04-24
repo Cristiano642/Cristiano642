@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
-  💻 Skills:
+  <h1>💻 Skills:</h1>
   <div style="display: inline_block">
   <img align="center" alt="Reff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Reff-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">

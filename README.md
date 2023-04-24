@@ -23,6 +23,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fulano)](https://twitter.com/fulano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fulano/)](https://www.linkedin.com/in/fulano/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fulano/)](https://www.instagram.com/fulano/)
+![MySQL icon](https://cdn-icons-png.flaticon.com/512/919/919836.png)
 
 <div><br><br></div>
   

@@ -1,4 +1,6 @@
 
+![imagem de programação](https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg)
+
 <h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
 
 <p align="left"> 

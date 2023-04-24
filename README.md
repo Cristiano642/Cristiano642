@@ -1,6 +1,6 @@
 <img src="https://th.bing.com/th/id/OIG.BTL3x9z9LMfAFIGrRutr?pid=ImgGn" width="500" height="500" align="left">
 
-<h1>Cristiano Esteves<br><h3>JUNIOR FULLSTACK DEVELOPER</h3><br></h1>
+<h1>Cristiano Esteves</h1><br><h3>JUNIOR FULLSTACK DEVELOPER</h3>
 <br>
 
 <p align="left"> 

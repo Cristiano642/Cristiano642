@@ -24,6 +24,6 @@
 <br>
 <h3> Where Can You Find Me 🌎</h3>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=40&&height=40&link=https://www.linkedin.com/in/fulano/)](https://www.linkedin.com/in/cristianoe-dev/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=40&height=40&link=https://www.linkedin.com/in/fulano/)](https://www.linkedin.com/in/cristianoe-dev/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/cristianotevez13/](https://www.instagram.com/fulano/))](https://www.instagram.com/cristianotevez13/)
   [![email badge](https://img.shields.io/badge/Email-me!-blue?style=flat-square&logo=gmail)](mailto:cristiano642@hotmail.com)

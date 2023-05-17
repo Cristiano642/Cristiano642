@@ -29,3 +29,4 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fulano/)](https://www.linkedin.com/in/cristianoe-dev/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=[https://www.instagram.com/cristianotevez13/](https://www.instagram.com/fulano/))](https://www.instagram.com/cristianotevez13/)
   [![email badge](https://img.shields.io/badge/Email-me!-blue?style=for-the-badge&logo=gmail)](mailto:cristiano642@hotmail.com)
+

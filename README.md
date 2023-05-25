@@ -1,5 +1,8 @@
 <img src="https://th.bing.com/th/id/OIG.SMWiGXR43rxrYUvLPhR9?pid=ImgGn" width="500" height="500" align="left">
 
+
+
+
 <h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
 
 <p align="left"> 

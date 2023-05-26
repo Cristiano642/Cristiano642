@@ -1,6 +1,5 @@
 <img src="https://th.bing.com/th/id/OIG.SMWiGXR43rxrYUvLPhR9?pid=ImgGn" width="500" height="500" align="left">
 
-<br>
 <h1>Cristiano Esteves<br>JUNIOR FULLSTACK DEVELOPER</h1>
 
 <p align="left"> 
@@ -10,7 +9,7 @@
 <br>
 
 <p align="left">
-  <br>
+
   <h3>💻 Skills:</h3>
   <div style="display: inline_block">
   <img align="center" alt="Reff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
